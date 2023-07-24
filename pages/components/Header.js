@@ -1,7 +1,6 @@
 import React from "react";
 import NextLink from "next/link"
-import Fonts from "../font";
-
+import Fonts from "../font"
 import {
   chakra,
   Box,
