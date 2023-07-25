@@ -15,12 +15,11 @@ import {
   LinkOverlay,
   Badge,
   Text
-} from "@chakra-ui/react";
+} from "@chakra-ui/react";*
 
 export default function Nav(){
   const bg = useColorModeValue("white", "gray.100");
   const mobileNav = useDisclosure();
-
   return (
     <React.Fragment>
      <Fonts />
